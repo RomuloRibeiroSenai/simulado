@@ -30,32 +30,31 @@ h3{
 }
 .verde{
     background-color: #70d9b8;
-    height: 25vh;
+    height: 20vh;
     width: 20vw;
     margin: 5px;
 }
 .azul{
     background-color: blue;
-    height: 25vh;
+    height: 20vh;
     width: 31vw;
     margin-top: 5px;
  
 }
 .azul_claro{  
     background-color: #44d9e6;
-    height: 25vh;
+    height: 40vh;
     width: 25vw;
-    margin: 5px;
+    margin: 0px 5px;
 }
 .vermelho{  
     background-color: #ff5c5c;
-    height: 25vh;
+    height: 40vh;
     width: 26vw;
-    margin-top: 5px;
 
 }
 .ouro{
     background-color: #ffbd4a;
     margin: 5px;
-    height: 28vh;
+    height: 19vh;
 }
