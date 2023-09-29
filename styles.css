@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    margin-top: 10%;
+}
+h1{
+    padding: 10% 0% 0% 5%;
+    color: white;
+}
+h2{
+    text-align: right;
+    padding: 5% 5% 0% 0%;
+    color:white;
+}
+.class2{
+    display: flex;
+    flex-direction: row;
+}
+.roxo{
+    height: 80vh;
+    width: 25vw;
+    background-color: purple;
+    margin-top: 5px;
+}
+.verde{
+    background-color: #70d9b8;
+    height: 25vh;
+    width: 20vw;
+    margin: 5px;
+}
+.azul{
+    background-color: blue;
+    height: 25vh;
+    width: 31vw;
+    margin-top: 5px;
+ 
+}
+.azul_claro{  
+    background-color: #44d9e6;
+    height: 25vh;
+    width: 25vw;
+    margin: 5px;
+}
+.vermelho{  
+    background-color: #ff5c5c;
+    height: 25vh;
+    width: 26vw;
+    margin-top: 5px;
+
+}
+.ouro{
+    background-color: #ffbd4a;
+    margin: 5px;
+    height: 28vh;
+}
